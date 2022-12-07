@@ -1,5 +1,6 @@
 
 # Heart Disease Predictor
+![heart_img](https://user-images.githubusercontent.com/71665909/206091974-3068ad10-5a24-4971-85a5-ba5488a726ff.jpg)
 
 
 
